@@ -213,14 +213,6 @@ A: Try:
 - Reduce input resolution
 - Adjust thread count settings
 
-## 📊 Performance Benchmarks
-
-| Hardware Configuration | Resolution | FPS | CPU Usage |
-|------------------------|------------|-----|-----------|
-| i7-10700K + RTX 3070  | 1920x1080  | 30+ | 15%       |
-| i5-8400                | 1280x720   | 20+ | 25%       |
-| i3-8100                | 854x480    | 15+ | 35%       |
-
 ## 🤝 Contributing
 
 1. Fork the repository
